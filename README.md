@@ -51,9 +51,10 @@ Durante a formação serão adicionados:
 
 ## Autor
 
-**Gabriel da Silva Der Garabedian**
+**Gabriel Da Silva Der Garabedian**
 
 Estudante de Análise e Desenvolvimento de Sistemas, Tecnico em Desenvolvimento de Sistemas e participante da Formação Acelerada em Programação (FAP), com foco em DevOps e desenvolvimento de soluções para o mercado.
+
 ### Contato
 
 - GitHub: https://github.com/Gabriel-Garabedian
