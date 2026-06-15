@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="DEVOPS" src="https://github.com/user-attachments/assets/2e51abf6-76c7-4678-bf14-71cb6250a53e" />
 # Formação Acelerada em Programação (FAP)
 
 ## Sobre o Projeto
