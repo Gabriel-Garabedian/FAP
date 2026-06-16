@@ -36,6 +36,11 @@ git switch -c feature-login
 ```bash
 git switch main
 ```
+### Para ver TODAS as branches (as locais e as remotas juntas)
+
+```bash
+git branch -a
+```
 
 ### Fazer merge
 
