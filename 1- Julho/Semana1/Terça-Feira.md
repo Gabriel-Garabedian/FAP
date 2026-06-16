@@ -8,7 +8,7 @@
 
 ### Terça-feira (09/06/2026) - 🎓 Aula 1
 **Status:** ✅ Concluído  
-**Tempo:** 3 horas (aula presencial)
+**Tempo:** 3 horas (aula presencial)  
 **Conteúdo:** Soft Skills e Identidade Profissional 
 
 **O que aprendi:**
