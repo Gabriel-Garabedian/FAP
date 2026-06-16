@@ -1,6 +1,14 @@
-### Quinta-feira (11/06/2026) - 🎓 Aula 2
+# 📅 Diário de Aprendizado - FAP
+
+> 📅 **Aulas:** Terças e Quintas  
+
+---
+
+## Semana 1 (09/06/2026 - 11/06/2026)
+
+### Quinta-feira (11/06/2026) - 🎓 Aula 2  
 **Status:** ✅ Concluído  
-**Tempo:** 3 horas (aula presencial)
+**Tempo:** 3 horas (aula presencial)  
 **Conteúdo:** Perfis Comportamentais (DISC)
 
 **O que aprendi:**
