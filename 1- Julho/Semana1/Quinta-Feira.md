@@ -4,7 +4,7 @@
 **Conteúdo:** Perfis Comportamentais (DISC)
 
 **O que aprendi:**
-A metodologia DISC apresenta quatro perfis comportamentais: Dominância, Influência, Estabilidade e Conformidade. Cada perfil possui características, pontos fortes e desafios específicos que impactam a forma de trabalhar e se relacionar. O autoconhecimento permite identificar habilidades naturais e áreas de melhoria. Não existe perfil ideal para tecnologia, pois todos contribuem de maneiras diferentes para o sucesso das equipes.
+- A metodologia DISC apresenta quatro perfis comportamentais: Dominância, Influência, Estabilidade e Conformidade. Cada perfil possui características, pontos fortes e desafios específicos que impactam a forma de trabalhar e se relacionar. O autoconhecimento permite identificar habilidades naturais e áreas de melhoria. Não existe perfil ideal para tecnologia, pois todos contribuem de maneiras diferentes para o sucesso das equipes.
 
 ---
 **Dificuldades:**
