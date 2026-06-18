@@ -47,9 +47,13 @@ git branch -a
 ```bash
 git merge feature-login
 ```
-
 Une as alterações da branch na branch atual.
 
+### Se for a primeira vez enviando essa branch para o GitHub, geralmente use:
+```bash
+git push -u origin feature-login
+```
+cria o vínculo entre a branch local e a remota.
 ---
 
 ## 🌳 Padrão de Nomes
